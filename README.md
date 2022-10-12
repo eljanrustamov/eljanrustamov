@@ -1,6 +1,3 @@
-<h3> 
-  <img src="https://user-images.githubusercontent.com/71334500/184921875-e1f47ac7-944d-4b50-aae5-2891b8f0127e.png" />
-</h3>
 
 <br/>
 
