@@ -1,9 +1,5 @@
 
-<br/>
-
 ![Front End Developer (4)](https://user-images.githubusercontent.com/71334500/220309218-0edabdf2-3cd4-45b5-a116-338bab7ff717.png)
-
-<br/>
 <br/>
 
 ## Hi there 👋 I'm Eljan
